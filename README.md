@@ -14,8 +14,6 @@ A simple and functional Todo List web app built with **HTML**, **CSS**, and **Ja
 
 ---
 
----
-
 ## 📂 Folder Structure
 
 /todo-list/
