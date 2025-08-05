@@ -25,10 +25,6 @@ A simple and functional Todo List web app built with **HTML**, **CSS**, and **Ja
 ├── script.js # JavaScript logic
 └── README.md # Project documentation
 
-yaml
-Copy
-Edit
-
 ---
 
 🛠️ Technologies Used
